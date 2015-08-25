@@ -1,2 +1,2 @@
- $("#Main").append({Rahulchandi});
+ $("#Main").append([Rahulchandi]);
  
